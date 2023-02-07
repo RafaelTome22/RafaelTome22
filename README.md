@@ -17,6 +17,6 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div> <br/>
 
-Cursando Desinvolvimento de Sistema na Instituição de Ensino, Etec Jaraguá! Sou apaixonado por programação e Tecnologi desde os meus 8 anos de idade. 
+Cursando Desenvolvimento de Sistema na Instituição de Ensino, Etec Jaraguá! Sou apaixonado por programação e Tecnologi desde os meus 8 anos de idade. 
 
 Quando o corpo não aguenta, a fé sustenta!
