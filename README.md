@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-antônio-tomé-ferreira-babb92256/) 
 [![TiKToK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@devcontentss) 
 
-![DevRaffa GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaffa&show_icons=true&theme=Tokyonight)
+![DevRaffa GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaffa&show_icons=true&theme=dracula)
 
 # Tecnologias que tenho contato. 🖥️
 
