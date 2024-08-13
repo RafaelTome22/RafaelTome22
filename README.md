@@ -10,7 +10,7 @@
 
 ###
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/yqZbg1G/gato-no-pc.gif" alt="gato-no-pc" border="0" width="50"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yqZbg1G/gato-no-pc.gif" alt="gato-no-pc" border="0" width="200" float="right"></a>
 
 ###
 
